@@ -1,4 +1,4 @@
-# Blaze HTML5 Video Player
+# Blaze HTML5 Video Player (Lite Edition)
 ![image](https://github.com/user-attachments/assets/f4fd0f88-d1ae-41e3-8732-ea0c2720f3a7)
 
 # Features
@@ -12,6 +12,8 @@
 - ✅ keyboard Controls
 - ✅ Modular: choose only the controls you want
 - ✅ Simple API for controlling playback programmatically
+
+⚠️ Don't Change the Logo
 
 # Getting Started
 
