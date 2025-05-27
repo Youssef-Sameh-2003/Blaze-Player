@@ -17,7 +17,7 @@
 
 ### 1.Install via npm
 
-```bash
+```cmd
 npm install blaze-html5-player -g
 ```
 
