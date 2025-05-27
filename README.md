@@ -9,7 +9,7 @@
 - ✅ Volume control with dynamic icons
 - ✅ Playback speed selector (0.5x, 1x, 2x)
 - ✅ Fullscreen toggle
-- ✅ Optional logo display
+- ✅ keyboard Controls
 - ✅ Modular: choose only the controls you want
 - ✅ Simple API for controlling playback programmatically
 
