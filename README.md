@@ -13,5 +13,15 @@
 - Modular: choose only the controls you want
 - Simple API for controlling playback programmatically
 
+## Getting Started
+
+### 1. HTML Structure
+
+```html
+<div id="player1" class="video-container">
+  <video src="video.mp4" width="640" height="360"></video>
+</div>
+```
+
 # Credits
 * Author : Yusuf Sameh
