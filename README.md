@@ -13,7 +13,7 @@
 - ✅ Modular: choose only the controls you want
 - ✅ Simple API for controlling playback programmatically
 
-## Getting Started
+# Getting Started
 
 ### 1.Install via npm
 
