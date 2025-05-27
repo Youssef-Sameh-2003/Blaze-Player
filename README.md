@@ -1,3 +1,3 @@
-# Blize Video Player
+# Blize Video Player | v1.0
+# Credits
 * Author : Yusuf Sameh
-* Version : 1.0
