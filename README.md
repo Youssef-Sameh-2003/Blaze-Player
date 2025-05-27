@@ -20,7 +20,7 @@
 ### 1.Install via npm
 
 ```cmd
-npm install blaze-html5-player -g
+npm install blaze-player-vlite -g
 ```
 
 ### 2. HTML Structure
