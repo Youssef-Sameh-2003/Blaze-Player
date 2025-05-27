@@ -21,7 +21,6 @@
 <div id="player1" class="video-container">
   <video src="video.mp4" width="640" height="360"></video>
 </div>
-```
 
-### Credits
-* Author : Yusuf Sameh
+<script src="blaze-player.js"></script>
+```
