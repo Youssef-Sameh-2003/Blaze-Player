@@ -15,7 +15,13 @@
 
 ## Getting Started
 
-### 1. HTML Structure
+### 1.Install via npm
+
+```bash
+npm install blaze-html5-player -g
+```
+
+### 2. HTML Structure
 
 ```html
 <div id="player1" class="video-container">
