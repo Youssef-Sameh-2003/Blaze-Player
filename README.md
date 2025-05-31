@@ -10,10 +10,13 @@
 - ✅ Playback speed selector (0.5x, 1x, 2x)
 - ✅ Fullscreen toggle
 - ✅ keyboard Controls
-- ✅ Modular: choose only the controls you want
-- ✅ Simple API for controlling playback programmatically
 
 ⚠️ Don't Change the Logo
+
+# Changelog v1.01
+
+✅ Watermark
+✅ Loading Spinner
 
 # Getting Started
 
