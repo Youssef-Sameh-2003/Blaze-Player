@@ -15,8 +15,8 @@
 
 # Changelog v1.01
 
-✅ Watermark
-✅ Loading Spinner
+- ✅ Watermark
+- ✅ Loading Spinner
 
 # Getting Started
 
